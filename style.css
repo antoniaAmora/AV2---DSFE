@@ -38,5 +38,29 @@ button:hover {
   }
   
 body{
-    background-color: black;
+    background-color:black
 }
+
+.listinha{
+    color:rgb(61, 10, 109) ;
+    text-align: center;
+    list-style-type: none;
+    font-family: Comic Sans MS;
+
+}
+
+.pagina1{
+    background-image: url("Masara_Danima_casa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.link{
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+
+
+
+
+
